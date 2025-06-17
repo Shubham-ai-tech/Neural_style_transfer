@@ -1,12 +1,5 @@
 # Neural Style Transfer
 
-Click on this demo YouTube video for the complete procedure of the Model.  
-Click on [![YouTube](https://img.shields.io/badge/YouTube-Video-red?logo=youtube)](https://www.youtube.com/watch?v=7sgF6nAb32E)
-
-## Report
-
-For a detailed report on the project, click on [![Doc](https://img.shields.io/badge/Report-Doc-blue?logo=microsoft-word)](https://github.com/adarshukla3005/neural_style_transfer/blob/main/Report_NST.docx)
-
 ## Overview
 
 This repository contains an implementation of Neural Style Transfer using TensorFlow and Keras. Neural Style Transfer is a technique that blends the content of one image with the style of another image to create a new, visually appealing image.
